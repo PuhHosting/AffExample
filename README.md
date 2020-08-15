@@ -20,7 +20,4 @@ The Website for <a href="https://www.puh.hosting">https://www.puh.hosting</a>
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-   
-   ## PuhHosting Website, a TheSystems Project.
-<img src="https://the-systems.eu/images/favicons/apple-touch-icon.png" width="60px" />
 
